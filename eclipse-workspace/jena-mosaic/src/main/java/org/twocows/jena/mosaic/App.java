@@ -1,4 +1,4 @@
-package org.twocows.jena_mosaic;
+package org.twocows.jena.mosaic;
 
 /**
  * Hello world!
